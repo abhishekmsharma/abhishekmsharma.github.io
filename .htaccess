@@ -1,0 +1,5 @@
+DirectoryIndex index.html index.php
+
+Redirect 301 /diet   http://www.abhishekmsharma.com/blog/diet-plan
+
+ErrorDocument 404 http://abhishekmsharma.com/errorpages/404/index.html
