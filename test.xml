@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Say voice="alice">Thanks for the call. Configure your number's voice U R L to change this message.</Say>
+<Play digits="#"/>
+  <Hangup/>
+</Response>
+
+
